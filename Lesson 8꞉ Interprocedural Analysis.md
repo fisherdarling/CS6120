@@ -1,7 +1,8 @@
 ---
+tags: [Compilers]
 title: 'Lesson 8: Interprocedural Analysis'
 created: '2021-04-16T04:13:37.911Z'
-modified: '2021-04-16T04:48:50.213Z'
+modified: '2021-05-07T01:36:38.410Z'
 ---
 
 # Lesson 8: Interprocedural Analysis
